@@ -1,0 +1,3 @@
+To the run code below 
+
+neuralNetworkBackprop.py input.txt 3 0.78
